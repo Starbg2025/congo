@@ -1,0 +1,7 @@
+{
+  "name": "CONGOCAR EXCLUSIVE",
+  "description": "Plateforme officielle de vente et de réservation de voitures de luxe au Congo. Excellence automobile et service premium.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
